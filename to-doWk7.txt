@@ -8,8 +8,10 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 
 
 1. research wk7
--written
--posted
+-prepared /
+-prepared II ()
+-written ()
+-posted ()
 
 2. career services wk7
 -read instructions
