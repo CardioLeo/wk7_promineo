@@ -55,4 +55,48 @@ e.
 
 "The <wbr> tag is an incredibly obscure tag. To be honest, I doubt many of you have come into contact with the tag, as it's hardly ever used. (Truthfully, I hadn't seen the tag before I started researching this article.) Essentially, the tag allows you to specify a place where you think a line break might be useful, but only if needed. This tag is unique as it relies on the discretion of the browser to insert the line break, if needed. It's perfect for creating layouts that you want to avoid having horizontal scrollbars."
 
+f.
 
+<details>
+
+definitely should use this for my portfolio website
+
+makes text expandable, etc. will be very helpful.
+
+"<p>
+<p>I'm Lawson Ezekiel, a software developer who has more development experience in frontend building responsive website sites using these web technologies like Javascript, Vue Js, HTML and CSS, Bootstrap Tailwind CSS.</p>
+</p>
+<details>
+  <summary>Click to read more about me</summary>
+  <p>I love sharing how to use the latest technology tools to solve problems and my technical experience through an article.</p>
+</details>"
+
+g.
+
+<meter> tag -- already use this for my website. Although I need to clean up my website and make the links interlock and then make it live on github.
+
+h.
+
+Although now I have learned about the <progress> bar, which is different?
+
+"<progress value="750" max="1000">
+  <span>70</span>%
+</progress>"
+
+i.
+
+<q> for quote, working with <cite> looks really helpful for me as well.
+
+<q>
+The <q> element is used to identify quoted text on a web page. It is mainly used to show a brief quotation.
+
+<q>Tests are stories we tell the next generation of programmers on a project.</q>
+The <cite> attribute specifies the source of the quotation.
+
+<p><cite>Roy Osherove</cite> said, <q>Tests are stories we tell the next generation of programmers on a project.</q>.</p>
+
+j.
+
+<base href="" target="_blank"> (self-closing tag)
+
+"For relative links, the HTML base element is used to provide a base URL."
