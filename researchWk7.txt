@@ -21,6 +21,8 @@ What is your favorite thing you learned this week?
 
 1. I looked up some of the rarest html elements and found some useful ones.
 
+source: https://code.tutsplus.com/articles/10-rare-html-tags-you-really-should-know--net-3908
+
 a.
 
 <optgroup>
@@ -100,3 +102,46 @@ j.
 <base href="" target="_blank"> (self-closing tag)
 
 "For relative links, the HTML base element is used to provide a base URL."
+
+---
+
+source 2: https://unclebigbay.com/7-rare-html-tags-you-really-should-know
+
+2a.
+
+"If your quotation spans through multiple lines, you should use the <blockquote> tag."
+
+2b.
+
+oh wow, ruby tags; relevant to showing pronunciation of unicode, for example;
+
+"The <ruby>, <rt>, and <rp> tags
+"According to the MDN Web Docs
+
+"The Ruby <ruby> HTML element represents small annotations that are rendered above, below, or next to base text, usually used for showing the pronunciation of East Asian characters. It can also be used for annotating other kinds of text, but this usage is less common.
+
+"The HTML Ruby Fallback Parenthesis (<rp>) element is used to provide fall-back parentheses for browsers that do not support the display of ruby annotations using the <ruby> element.
+
+"One <rp> element should enclose each of the opening and closing parentheses that wrap the <rt> element that contains the annotation's text.
+
+"<ruby>
+  明日 <rp>(</rp><rt>Ashita</rt><rp>)</rp>
+</ruby>
+
+    <ruby>Ayodele<rt>Surname</rt></ruby>
+    <ruby>Samuel<rt>Middlename</rt></ruby>
+    <ruby>Adebayo<rt>Lastname</rt></ruby>
+
+2c.
+
+<p>
+  I am showing an-example-of<wbr>-a-very-long-text-on-hashnode
+</p>
+
+2d.
+
+<details>
+<summary>Click to view my name</summary>
+<p>My name is Ayodele Samuel Adebayo (unclebigbay).</p></details>
+
+
