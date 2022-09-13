@@ -15,4 +15,44 @@ What is your favorite thing you learned this week?
 
 ---
 
+---***---
+
+---
+
+1. I looked up some of the rarest html elements and found some useful ones.
+
+a.
+
+<optgroup>
+
+One looks like it could be helpful in creating a navigation bar with drop-box lists for my portfolio website (<optgroup>). It helps you to group options together.
+
+b.
+
+Another one is (<acronym>).
+
+"The <acronym> tag is a way to define or further explain a group of words. When you hover over text that has the <acronym> tag used, a box appears below with the text from the title tag. For example:"
+
+"The microblogging site <code><acronym title="Founded in 2006"></code> Twitter</acronym> has recently struggled with downtimes.
+
+c.
+
+Another is <ins> and <del>
+
+which show markup for insertions and deletions, underlining the first and striking through the second. "John <del>likes</del> <ins>LOVES</ins> his new iPod."
+
+d.
+
+<abbr>
+
+"The <abbr> tag is much akin to the <acronym> tag, except the <abbr> tag is only used to define shortened words. Just like <acronym>, you define a title within the tag. When a visitor hovers over the shortened text, the full definition appears below. The <abbr> tag is rarely used, but the benefits are many for screen readers, spellcheckers, and search engines.
+
+"<abbr title="Sergeant">Sgt.</abbr> Pepper's Lonely Hearts Club is my favorite album."
+
+e.
+
+<wbr>
+
+"The <wbr> tag is an incredibly obscure tag. To be honest, I doubt many of you have come into contact with the tag, as it's hardly ever used. (Truthfully, I hadn't seen the tag before I started researching this article.) Essentially, the tag allows you to specify a place where you think a line break might be useful, but only if needed. This tag is unique as it relies on the discretion of the browser to insert the line break, if needed. It's perfect for creating layouts that you want to avoid having horizontal scrollbars."
+
 
