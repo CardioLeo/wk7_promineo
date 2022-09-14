@@ -1,6 +1,6 @@
 Author: William Z Chadwick
 Date Created: 09/13/2022
-Date Modified: 09/13/2022
+Date Modified: 09/14/2022
 Description: A place for my to-do list for Promineo Tech Week 7.
 
 ---
@@ -39,6 +39,13 @@ To finish from previous weeks:
 
 touch up program from week 5--
 finish program from week 6--
+-went to video walkthrough from Macias /
+-worked on it /
+-worked on it 09/13/2022 /
+-worked on it more 09/14/2022 /
+-
+
+
 other projects:
 -finish react sololearn course
 -finish react video course
