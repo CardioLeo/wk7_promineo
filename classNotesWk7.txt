@@ -1,0 +1,89 @@
+# Author: William Z Chadwick
+# Date Created: 09/14/2022
+# Date Modified: 09/14/2022
+# Description: A place for my notes for Promineo Tech's front end bootcamp, Week 7
+
+Front End:
+
+Markup and web languages
+-html
+-css
+-js
+Asynchronous requests (AJAX)
+Image editing
+Accessibility
+Cross browser issues
+
+Back End:
+
+Programming and scripting
+-java
+-ruby
+-php
+Server architecture
+Database administration
+Scalability
+Security
+Data transformation
+Backup
+
+---
+
+took a bit to listen and work on my linkedin post; now returning
+
+<script src="demo..." defer></script>
+
+"defer" above makes sure that the script only renders after the html has completely loaded; seems like if you make the src= and external source that also makes it render later?
+
+<form> </form>
+encapsulates multiple elements together
+
+<input type=""></input>
+
+<button></button>
+
+---
+
+requirements for week 7 project:
+
+-at least 3 pages
+-links to navigate between all pages present on each page (can be identical?)
+-A list
+-3 images
+-2 different size headers
+-a table
+-a form
+
+---
+
+SEMANTIC HTML
+
+I really need to learn more about these.
+
+The only nonsemantic tags:
+<div>
+<span>
+
+"Most tags are semantic nowadays."
+
+semantic ones:
+footer, header, nav, form, article, main, section
+
+
+only one <header> and only one <main>
+
+you might have multiple <article> tags.
+
+<nav><ul>
+<li>Home</li>
+<li>About</li>
+<li>Contact</li>
+</ul></nav>
+
+src="#sample" links to a tag below with the id tag id="sample"
+
+good to know.
+
+---
+
+class ended at 8pm today since it is about html and that's pretty easy; he said to try to work on previous week's project (week 6 capstone -- still unfinished by me). Good idea. I also want to revamp and activate my own website so anyone can pull it up.
