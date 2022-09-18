@@ -30,14 +30,14 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 5. Coding Assignment Wk7
 -read instructions /
 -work at it /
--make list of remaining tasks
+-make list of remaining tasks /
 -make video ()
--screenshot of code ()
--screenshot of running application ()
--github URL ()
+-screenshot of code (///)
+-screenshot of running application (////)
+-github URL (//)
 -upload and submit ()
 
-6. Quiz Wk7
+6. Quiz Wk7 /
 
 ---
 
