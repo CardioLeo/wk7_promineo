@@ -1,0 +1,67 @@
+# Author: William Z Chadwick
+# Date Created: 09/18/2022
+# Date Modified: 09/18/2022
+# Description: A place to keep track of the html written for Promineo Tech Week 7 Quiz
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<h1>This is a heading 1</h1>
+<br> 
+<img src="https://cardioleo.github.io/wzcOnline/image_files/skFace.jpg" alt="SorenKierkegaard">
+<br>
+<p><a href="https://www.google.com/">Link to Google.com</p></a>
+<br>
+<p>Race Results</p>
+<ol>
+<li>Samantha</li>
+<li>Ronny</li>
+<li>Sally</li>
+</ol>
+<br>
+<p>Favorite Food</p>
+<ul>
+<li>Pizza</li>
+<li>Fish</li>
+<li>Pasta</li>
+</ul><br>
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email Address</th>
+  </tr>
+  <tr>
+    <td>Tom</td>
+    <td>Huck</td>
+    <td>Mark</td>
+  </tr>
+  <tr>
+    <td>Sawyer</td>
+    <td>Finn</td>
+    <td>Twain</td>
+  </tr>
+  <tr>
+    <td>t.sawyer@yahoo.com</td>
+    <td>h.finn@aol.com</td>
+    <td>m.twain@gmail.com</td>
+  </tr>
+</table><br>
+<h2>Login</h2>
+<br>
+<form>
+  <label for="username">Username</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="password">Password</label><br>
+  <input type="text" id="password" name="password">
+</form><br>
+<button type="button">Submit</button>
+<br>
+</body>
+</html>
+
