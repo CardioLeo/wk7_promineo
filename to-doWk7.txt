@@ -31,7 +31,7 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 -read instructions /
 -work at it /
 -make list of remaining tasks /
--make video ()
+-make video (x)
 -screenshot of code (///)
 -screenshot of running application (////)
 -github URL (//)
