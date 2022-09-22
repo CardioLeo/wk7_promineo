@@ -8,8 +8,8 @@
 week 7 career services task to do list:
 
 -read questions /
--research star method
--take notes on star method
+-research star method /
+-take notes on star method /
 -find company with role you are looking for
 -start asking the 9 questions regarding your chosen company
 -make many notes, input into doc for upload
