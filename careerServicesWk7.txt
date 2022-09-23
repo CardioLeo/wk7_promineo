@@ -243,10 +243,16 @@ hiring range $77-$90
 How did you hear about this position?
 -I heard about this position on Indeed, after searching for awhile.
 
+--wrote longer version in main doc
+1 -- /
+
 
 2.
 What do you know about the company?
 [-research company, website, products/services, reviews; talk about good reviews that make you want to join]
+
+Review notes?
+-Reputable, very nice buildings and excellent staff. Great benefits and good pay - pay that matches what I need and the skills I've been pushing for. Looks like a good amount of different insurance options, PTO, and tuition options (which I'm a big fan of since I'm pretty serious about being a life-long learner).
 
 
 3.
@@ -303,7 +309,7 @@ What are your goals for the future?
 Why are you leaving your last job?
 -[..."nothing negative, mention growth, changing industries, etc."]
 
--The older I've gotten, the more I've noticed I am not using my skills the way I ought to be and haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado. I love language, logic, learning and teaching, Ubuntu, bash, code ...
+-The older I've gotten, the more I've noticed I am not using my skills the way I ought to be and haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado, so I've been increasingly pursuing learning how to code for the last two years or so. I love language, logic, learning and teaching, Ubuntu, bash, code ...
 
 
 9.
