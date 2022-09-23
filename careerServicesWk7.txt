@@ -1,6 +1,6 @@
 # Author: William Z Chadwick
 # Date Created: 09/21/2022
-# Date Modified: 09/21/2022
+# Date Modified: 09/22/2022
 # Description: A place for notes in preparation for Promineo Tech Week 7 Career Services upload
 
 ---
@@ -177,4 +177,130 @@ Companies that are "#NDEngaged" i.e., Neurodiverse engaged; which I'm interested
 
 I need to narrow it down to like 3-5 jobs, because there are way too many jobs I've found just now.
 
+---
 
+Linux job?
+CPP job?
+Entry level web dev job?
+
+---
+
+This is the job I'm going to fill out questions for:
+
+Linux Administrator
+IT Principal Professional
+(applications only at cu.edu/cu-careers/)
+
+
+University of Colorado,
+Denver CO, 80217
+$77k - $99k / yr -- full time.
+College of Liberal Arts and Sciences
+
+
+Exp. and Skills
+-Ubuntu
+-ESXi
+-Firewall
+-Technical Support
+-Active Directory
+-Python
+
+education and certificates:
+-bachelor's degree
+-RHCSA
+-CompTIA Server+
+-CCNA
+-CompTIA Network+
+-CompTIA Linux+
+-CompTIA A+
+
+requires covid vaccinations (religious exemptions accepted at all campuses)
+not classified
+downtown Denver ("8 schools", "globally connected and locally invested")
+
+"The Linux Administrator oversees the most critical server environments for CLAS. This position will serve as the subject matter expert of Linux and server infrastructure and will strive to protect CLAS and the University throug proper server management practices and strong security principles. The Linux Administrator is responsible for supporting and protecting public-facing web infrastructure as well as internal High-Performance Computing (HPC) environments, and will be working in data center environemnts on server and network hardware. This position strives to optimize existing environments, constantly looking for methods of improving processes, infrastructure design, and configurations, utilizing automation techniques to simplify.......... The Linux Administrator also serves as the highest technical point of escalation for the CLAS IT Support Desk, assisting with only the most complex and critical issues that arise within the college."
+
+geez
+
+"This position reports directly to the IT Director." Hm, okay.
+
+
+-server administration
+-HPC environments
+-ubuntu, centos, redhat, heavily mixed
+-CLAS web services, "infrastructure, Drupal"
+-data center network env and ensure proper maintenance and patch management...
+-DNS, active directory....
+
+hiring range $77-$90
+
+
+---
+
+
+1.
+How did you hear about this position?
+-I heard about this position on Indeed, after searching for awhile.
+
+
+2.
+What do you know about the company?
+[-research company, website, products/services, reviews; talk about good reviews that make you want to join]
+
+
+3.
+Why do you want this job?
+[-be very specific - talk about what appeals to you about the role but focus more on the value you'll add to the team and company rather than what the company will do for you]
+
+
+4.
+Why should we hire you?
+[-be very specific]
+-Skills
+-Passion
+-Willingness to continuously learn to be an asset
+
+-very resourceful, taught myself how to learn, then how to teach others; taught myself analytical and critical thinking, philosophy, taught myself German and more languages; bash, CPP, web dev,
+-
+-
+-
+
+
+5.
+What is your Greatest Professional Achievement? (STAR)
+-list major achievements relative to professional work
+-Inlow Baptist Camp
+-writing a book of poems
+-teaching myself German/how to Code
+-Promineo Tech bootcamp
+-
+
+
+6.
+Describe a Difficult Work Situation and How you Overcame it. (STAR)
+-never negative about another company or person.
+-["consider talking about change, as change is always diffcult to overcome"]
+
+-calming down John
+-dealing with rumors at work?
+-the last year - Manna Connect, Therapist, Psychiatrist (2-3), Neurocognitive Testing, Meds, Spiritual Director, lots of learning to code, lots of persistence and not giving up; courses like Udemy courses; Promineo Tech Bootcamp; [perhaps Nxt Level];
+
+
+7.
+What are your goals for the future?
+-[answer in a time-bound manner
+-looking to learn as much as possible within your field]
+
+-learn a lot more code, history of coding, concepts, philosophy of, etc, learn as much as possible, I love learning
+-write a lot about ethics and tech, language and spirituality
+-
+-publish poetry
+-start 2 non-profits: 1, Bonaventure Institute (stem2stem), 2, peace center
+
+
+8.
+Why are you leaving your last job?
+-[..."nothing negative, mention growth, changing industries, etc."]
+
+-The older I've gotten, the more I've noticed I am not using my skills the way I ought to be and haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado. I love language, logic, learning and teaching, Ubuntu, bash, code ...
