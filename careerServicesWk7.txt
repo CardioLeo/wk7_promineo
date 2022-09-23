@@ -317,7 +317,7 @@ What are your goals for the future?
 Why are you leaving your last job?
 -[..."nothing negative, mention growth, changing industries, etc."]
 
--The older I've gotten, the more I've noticed I am not using my skills the way I ought to be and haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado, so I've been increasingly pursuing learning how to code for the last two years or so. I love language, logic, learning and teaching, Ubuntu, bash, code ...
+-The older I've gotten, the more I've realized that I am not using my skills the way I ought to be, and am not pursuing the life that I really want to live, and that furthermore, I haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado and making the most of my life, so I've been increasingly pursuing learning how to code for the last two years or so and increasingly teaching myself to approach it as a deep thinker - not just thinking about the code, but about the ideas and realities that underlie modern technology and what responsibilities might come along with those. I love language, logic, learning and teaching, Ubuntu, bash, code ...
 
 
 9.
