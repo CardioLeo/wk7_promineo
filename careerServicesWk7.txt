@@ -304,3 +304,9 @@ Why are you leaving your last job?
 -[..."nothing negative, mention growth, changing industries, etc."]
 
 -The older I've gotten, the more I've noticed I am not using my skills the way I ought to be and haven't even been in any of the right industries to get close to doing that. I want to use a lot of my skills to really start taking care of my family here in Colorado. I love language, logic, learning and teaching, Ubuntu, bash, code ...
+
+
+9.
+What is your salary expectation?
+
+$70k-75k
