@@ -251,13 +251,17 @@ How did you hear about this position?
 What do you know about the company?
 [-research company, website, products/services, reviews; talk about good reviews that make you want to join]
 
-Review notes?
--Reputable, very nice buildings and excellent staff. Great benefits and good pay - pay that matches what I need and the skills I've been pushing for. Looks like a good amount of different insurance options, PTO, and tuition options (which I'm a big fan of since I'm pretty serious about being a life-long learner).
+
+-Along with the very positive personal experiences I mentioned in my first answer, I can also say that CU, between Boulder and the Anschutz Medical Campus - is reputable, very nice buildings and excellent staff. Great benefits and good pay - pay that matches what I need and the skills I've been pushing for. Looks like a good amount of different insurance options, PTO, and tuition options (which I'm a big fan of since I'm pretty serious about being a life-long learner).
 
 
 3.
 Why do you want this job?
 [-be very specific - talk about what appeals to you about the role but focus more on the value you'll add to the team and company rather than what the company will do for you]
+
+[the below answer needs to connect more with the specific job responsibilities; also... brevity? seems like something more to the point about who I am and what CU is needs to be said.]
+
+I really love Linux and bash - I think I get the most excited about those two than any of the other things I've done regarding coding. So when I started looking more seriously for coding jobs, I made sure to include Linux jobs in the search. Not to mention that I love colleges and places that try to foster an environment of care, discussion, courtesy and learning. Again, I like that I have had the personal expereinces with CU that I've had. Overall, it seems like a pretty good fit for the person I am. [I also get the impression from what I've heard, experienced, and found when I looked, that between the dual CU cultures of Boulder and Anschutz, I will not be disrespected for being neurodivergent, and that matters a lot to me.]
 
 
 4.
@@ -267,7 +271,8 @@ Why should we hire you?
 -Passion
 -Willingness to continuously learn to be an asset
 
--very resourceful, taught myself how to learn, then how to teach others; taught myself analytical and critical thinking, philosophy, taught myself German and more languages; bash, CPP, web dev,
+-very resourceful, taught myself how to learn, then how to teach others; taught myself analytical and critical thinking, philosophy, taught myself German and more languages; bash, CPP, web dev
+-My personal and work experiences make me somewhat familiar with many different aspects of CU's culture, clients and their needs. For instance, my  experience as a caregiver for the elderly and special needs community, as well as with tutoring, learning and teaching others how to learn, are bonuses for connecting me to the CU culture. Along with my personal experiences with my family at the Anschutz campus. -- I have a personality that considers seriously how to care and seeks cultures of thought and care. All
 -
 -
 -
@@ -290,7 +295,7 @@ Describe a Difficult Work Situation and How you Overcame it. (STAR)
 
 -calming down John
 -dealing with rumors at work?
--the last year - Manna Connect, Therapist, Psychiatrist (2-3), Neurocognitive Testing, Meds, Spiritual Director, lots of learning to code, lots of persistence and not giving up; courses like Udemy courses; Promineo Tech Bootcamp; [perhaps Nxt Level];
+-the last year - - unemployed in the pandemic, just barely above homeless and feeling like I had no idea what to do with my life. Then getting involved in Manna Connect with a career coach, then a therapist and marriage therapist, Psychiatrist (2-3), Neurocognitive Testing, much needed Medications, Spiritual Director, lots of learning to code, lots of persistence and not giving up; courses like Udemy courses; Promineo Tech Bootcamp; [perhaps Nxt Level];
 
 
 7.
@@ -300,9 +305,12 @@ What are your goals for the future?
 
 -learn a lot more code, history of coding, concepts, philosophy of, etc, learn as much as possible, I love learning
 -write a lot about ethics and tech, language and spirituality
--
+-eventually publish books
+-be present with my family and teach them a lot
 -publish poetry
 -start 2 non-profits: 1, Bonaventure Institute (stem2stem), 2, peace center
+-learn lots about coding and how to speak languages like Japanese, Welsh, Chinese and others...
+
 
 
 8.
