@@ -14,11 +14,17 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 -posted (/)
 
 2. career services wk7
--read instructions
--prep
--
--
--upload
+-read instructions /
+-prep /
+-did lots of research ... lots //
+-took many notes /
+
+*****
+Outstanding items remaining to do::
+-have to finish two questions and look over the rest ()
+-pdf-ify ()
+-upload ()
+*****
 
 3. LinkedIn posts Wk7 (/)
 -drafting /
@@ -35,7 +41,7 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 -screenshot of code (///)
 -screenshot of running application (////)
 -github URL (//)
--upload and submit ()
+-upload and submit (/)
 
 6. Quiz Wk7 /
 
