@@ -1,6 +1,6 @@
 Author: William Z Chadwick
 Date Created: 09/13/2022
-Date Modified: 09/14/2022
+Date Modified: 09/25/2022
 Description: A place for my to-do list for Promineo Tech Week 7.
 
 ---
@@ -22,8 +22,8 @@ Description: A place for my to-do list for Promineo Tech Week 7.
 *****
 Outstanding items remaining to do::
 -have to finish two questions and look over the rest (//)
--pdf-ify ()
--upload ()
+-pdf-ify (/)
+-upload (/)
 *****
 
 3. LinkedIn posts Wk7 (/)
